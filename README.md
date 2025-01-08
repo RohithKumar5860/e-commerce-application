@@ -12,18 +12,18 @@ The shopping cart dynamically updates as users add or remove items, reflecting t
 This application demonstrates my ability to integrate front-end technologies to create a functional and visually appealing platform, laying the groundwork for a scalable e-commerce solution.
 </p>
 <h4>
-  The user interface be like the
+  The user interface be like the:-
 </h4>
 <img src = "interface.png">
 <h4>
-  The product are displayed
+  The product are displayed:-
 </h4>
 <img src = "products.png">
 <h4>
-  The detailes of the product can be displayed as
+  The detailes of the product can be displayed as:-
 </h4>
 <img src = "details.png">
 <h4>
-  The totel cart is displayed like the all the products and the value of the products
+  The totel cart is displayed like the all the products and the value of the products:-
 </h4>
 <img src = "cart.png">
